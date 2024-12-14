@@ -12,3 +12,4 @@
 /Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.pdb
 /Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
 /Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/ref/Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.sourcelink.json
