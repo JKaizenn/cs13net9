@@ -1,0 +1,14 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/bin/Debug/net9.0/AboutMyEnviroment
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/bin/Debug/net9.0/AboutMyEnviroment.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/bin/Debug/net9.0/AboutMyEnviroment.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/bin/Debug/net9.0/AboutMyEnviroment.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/bin/Debug/net9.0/AboutMyEnviroment.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/refint/AboutMyEnviroment.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/AboutMyEnviroment.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter01-vscode/AboutMyEnviroment/obj/Debug/net9.0/ref/AboutMyEnviroment.dll

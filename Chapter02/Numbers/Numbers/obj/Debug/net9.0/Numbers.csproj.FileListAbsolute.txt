@@ -1,0 +1,14 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/bin/Debug/net9.0/Numbers
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/bin/Debug/net9.0/Numbers.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/bin/Debug/net9.0/Numbers.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/bin/Debug/net9.0/Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/bin/Debug/net9.0/Numbers.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/refint/Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Numbers/Numbers/obj/Debug/net9.0/ref/Numbers.dll

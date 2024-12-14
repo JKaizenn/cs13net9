@@ -1,0 +1,14 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/bin/Debug/net9.0/Vocabulary
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/bin/Debug/net9.0/Vocabulary.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/bin/Debug/net9.0/Vocabulary.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/bin/Debug/net9.0/Vocabulary.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/bin/Debug/net9.0/Vocabulary.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/refint/Vocabulary.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/Vocabulary.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Vocabulary/Vocabulary/obj/Debug/net9.0/ref/Vocabulary.dll
