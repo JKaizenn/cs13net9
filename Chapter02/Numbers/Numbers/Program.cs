@@ -91,3 +91,10 @@ Console.WriteLine($"{"0.0 / 3.0",-col1} | {0.0 / 3.0,col2}");
 Console.WriteLine($"{"0.0 / -3.0",-col1} | {0.0 / -3.0,col2}");
 Console.WriteLine(line);
 #endregion
+
+
+unsafe
+{
+Console.WriteLine($"Half uses {sizeof(Half)} bytes and can storenumbers in the range {Half.MinValue:N0} to {Half.MaxValue:N0}.");
+Console.WriteLine($"Int128 uses {sizeof(Int128)} bytes and can storenumbers in the range {Int128.MinValue:N0} to {Int128.MaxValue:N0}.");
+}
