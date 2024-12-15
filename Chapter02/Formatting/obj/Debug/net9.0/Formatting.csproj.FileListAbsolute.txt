@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/refint/Formatting.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Formatting/obj/Debug/net9.0/ref/Formatting.dll
