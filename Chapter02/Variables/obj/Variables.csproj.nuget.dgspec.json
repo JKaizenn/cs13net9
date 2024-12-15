@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables/Variables.csproj": {}
+    "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables.csproj": {}
   },
   "projects": {
-    "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables/Variables.csproj": {
+    "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables/Variables.csproj",
+        "projectUniqueName": "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables/Variables.csproj",
+        "projectPath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables.csproj",
         "packagesPath": "/Users/jessenforbush/.nuget/packages/",
-        "outputPath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/Variables/obj/",
+        "outputPath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jessenforbush/.nuget/NuGet/NuGet.Config"

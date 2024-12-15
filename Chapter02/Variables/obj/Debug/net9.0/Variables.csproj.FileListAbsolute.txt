@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/refint/Variables.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Variables/obj/Debug/net9.0/ref/Variables.dll
