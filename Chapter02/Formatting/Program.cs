@@ -1,6 +1,7 @@
 ﻿// Formatting 
 using System;
 using System.Globalization; // To use CultureInfo.
+using static System.Console;
 
 class Program
 {
@@ -14,7 +15,7 @@ class Program
         decimal pricePerApple = 0.35M;
 
         // Correctly formatted output with named arguments
-        Console.WriteLine(format: "{0} apples cost {1:C}",
+        WriteLine(format: "{0} apples cost {1:C}",
             arg0: numberOfApples,
             arg1: pricePerApple * numberOfApples);
 
@@ -23,20 +24,20 @@ class Program
             arg0: numberOfApples,
             arg1: pricePerApple * numberOfApples);
 
-        Console.WriteLine(formatted); // Display the formatted string.
+        WriteLine(formatted); // Display the formatted string.
 
         // WriteToFile(Formatted); // Writes the string to a file.
 
         // Three parameter values can use named arguments.
-        Console.WriteLine("{0} {1} lived in {2}.",
+        WriteLine("{0} {1} lived in {2}.",
             arg0: "Roger", arg1: "Cevung", arg2: "Stockholm");
 
         // Four or more parameter values cannot use named arguments.
-        Console.WriteLine("{0} {1} lived in {2} and worked in the {3} team at {4}.",
+        WriteLine("{0} {1} lived in {2} and worked in the {3} team at {4}.",
             "Roger", "Cevung", "Stockholm", "Education", "Optimizely");
 
         // String interpolation for cleaner formatting
-        Console.WriteLine($"{numberOfApples} apples cost {pricePerApple * numberOfApples:C}");
+        WriteLine($"{numberOfApples} apples cost {pricePerApple * numberOfApples:C}");
 
         // Format Strings
 
@@ -45,29 +46,30 @@ class Program
         string bananasText = "Bananas";
         int bananasCount = 56789;
 
-        Console.WriteLine("");
+        WriteLine("");
 
-        Console.WriteLine(format: "{0,-10} {1,6}",
+        WriteLine(format: "{0,-10} {1,6}",
             arg0: "Name", arg1: "Count");
 
-        Console.WriteLine(format: "{0,-10} {1,6:N0}",
+        WriteLine(format: "{0,-10} {1,6:N0}",
             arg0: applesText, arg1: applesCount);
 
-        Console.WriteLine(format: "{0,-10} {1,6:N0}",
+        WriteLine(format: "{0,-10} {1,6:N0}",
             arg0: bananasText, arg1: bananasCount);
 
         decimal value = 0.325M;
-        Console.WriteLine("Currency: {0:C}, Percentage: {0:0.0%}", value);
+        WriteLine("Currency: {0:C}, Percentage: {0:0.0%}", value);
 
         // Get input from the user:
 
-        Console.Write("Type your first name and press ENTER:");
-        string? firstName = Console.ReadLine();
+        Write("Type your first name and press ENTER:");
+        string? firstName = ReadLine();
 
-        Console.Write("Type your age and press ENTER:");
-        string age = Console.ReadLine();
+        Write("Type your age and press ENTER:");
+        string age = ReadLine()!;
 
-        Console.WriteLine($"Hello {firstName}, you look good for {age}.");
+        WriteLine($"Hello {firstName}, you look good for {age}.");
+
 
     }
 }
