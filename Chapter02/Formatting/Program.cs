@@ -1,7 +1,6 @@
 ﻿// Formatting 
 using System;
 using System.Globalization; // To use CultureInfo.
-using static System.Console;
 
 class Program
 {
