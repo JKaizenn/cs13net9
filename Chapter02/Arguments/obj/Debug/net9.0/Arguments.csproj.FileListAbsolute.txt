@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/refint/Arguments.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Arguments/obj/Debug/net9.0/ref/Arguments.dll
