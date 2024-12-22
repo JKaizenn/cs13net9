@@ -22,7 +22,15 @@ class Program
         ForegroundColor = (ConsoleColor)Enum.Parse(
             enumType: typeof(ConsoleColor),
             value: args[0], ignoreCase: true);
-
+        
+        try
+        {
             CursorSize = int.Parse(args[2]);
+        }
+        catch(PlatformNotSupportedException)
+        {
+            WriteLine("The current platform foes not support changing the size of the cursor.");
+
+        }
     }
 }
