@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net9.0/Exercise_Numbers
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net9.0/Exercise_Numbers.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net9.0/Exercise_Numbers.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net9.0/Exercise_Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/bin/Debug/net9.0/Exercise_Numbers.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/refint/Exercise_Numbers.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/Exercise_Numbers.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter02/Exercise_Numbers/obj/Debug/net9.0/ref/Exercise_Numbers.dll
