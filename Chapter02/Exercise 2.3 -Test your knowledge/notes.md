@@ -93,6 +93,7 @@ Answer: ulong (0 to about 18 quadrillion) or System.Numerics.BigInteger (which a
 arbitrarily large integer).
 10. The number of employees in each of the small or medium businesses in the United Kingdom
 (up to about 50,000 employees per business).
+Answer: ushort
 
 # <u>End of Chapter 2 Notes</u>
 
