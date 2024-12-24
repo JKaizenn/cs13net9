@@ -1,4 +1,4 @@
-# Notes: 
+# <u>Notes:</u>
 
 - What statement can you type in a C# file to discover the compiler and language version?
 
@@ -70,6 +70,29 @@ Example:```Console.WriteLine("{0,10}", "Hello");```
 ## What character separates arguments for a console app?
 - In a console application, arguments passed from the command line are separated by spaces. Each space acts as a delimiter between arguments.
 
+
+## Test your knowledge of number types:
+1. A person’s telephone number.
+Answer: string.
+2. A person’s height.
+Answer: float or double.
+3. A person’s age.
+Answer: int for best performance on most CPUs or byte (0 to 255) for the smallest size.
+4. A person’s salary.
+Answer: decimal.
+5. A book’s ISBN.
+Answer: string.
+6. A book’s price.
+Answer: decimal.
+7. A book’s shipping weight.
+Answer: float or double.
+8. A country’s population.
+Answer: uint (0 to about 4 billion).
+9. The number of stars in the universe.
+Answer: ulong (0 to about 18 quadrillion) or System.Numerics.BigInteger (which allows an
+arbitrarily large integer).
+10. The number of employees in each of the small or medium businesses in the United Kingdom
+(up to about 50,000 employees per business).
 
 # <u>End of Chapter 2 Notes</u>
 
