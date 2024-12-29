@@ -50,18 +50,18 @@ namespace Operators
 
             #endregion
 
-            // Assignment Operators Demonstration
-            #region Exploring assignment operators
+            // // Assignment Operators Demonstration
+            // #region Exploring assignment operators
 
-            int p = 6;
+            // int p = 6;
 
-            // Demonstrating compound assignment operators
-            p += 3; // Equivalent to: p = p + 3;
-            p -= 3; // Equivalent to: p = p - 3;
-            p *= 3; // Equivalent to: p = p * 3;
-            p /= 3; // Equivalent to: p = p / 3;
+            // // Demonstrating compound assignment operators
+            // p += 3; // Equivalent to: p = p + 3;
+            // p -= 3; // Equivalent to: p = p - 3;
+            // p *= 3; // Equivalent to: p = p * 3;
+            // p /= 3; // Equivalent to: p = p / 3;
 
-            #endregion
+            // #endregion
 
             // Null-Coalescing Operators Demonstration
             #region Exploring null-coalescing operators
@@ -80,23 +80,48 @@ namespace Operators
             // Logical Operators Demonstration
             #region Exploring logical operators
 
+            bool p = true;
             bool q = false;
-            bool r = true;
 
-            // Demonstrating AND, OR, and XOR logical operators
-            Console.WriteLine("AND | p     | q     ");
-            Console.WriteLine($"p   | {r & r,-5} | {r & q,-5} ");
-            Console.WriteLine($"q   | {q & r,-5} | {q & q,-5} ");
+            Console.WriteLine($"AND | p     | q     ");
+            Console.WriteLine($"p   | {p & p,-5} | {p & q,-5} ");
+            Console.WriteLine($"q   | {q & p,-5} | {q & q,-5} ");
             Console.WriteLine();
-            Console.WriteLine("OR  | p     | q     ");
-            Console.WriteLine($"p   | {r | r,-5} | {r | q,-5} ");
-            Console.WriteLine($"q   | {q | r,-5} | {q | q,-5} ");
+
+            Console.WriteLine($"OR  | p     | q     ");
+            Console.WriteLine($"p   | {p | p,-5} | {p | q,-5} ");
+            Console.WriteLine($"q   | {q | p,-5} | {q | q,-5} ");
             Console.WriteLine();
-            Console.WriteLine("XOR | p     | q     ");
-            Console.WriteLine($"p   | {r ^ r,-5} | {r ^ q,-5} ");
-            Console.WriteLine($"q   | {q ^ r,-5} | {q ^ q,-5} ");
+
+            Console.WriteLine($"XOR | p     | q     ");
+            Console.WriteLine($"p   | {p ^ p,-5} | {p ^ q,-5} ");
+            Console.WriteLine($"q   | {q ^ p,-5} | {q ^ q,-5} ");
+            Console.WriteLine();
+
+            // Using AND with the DoStuff method
+            Console.WriteLine($"p & DoStuff() = {p & DoStuff()}");
+            Console.WriteLine($"q & DoStuff() = {q & DoStuff()}");
+
+            Console.WriteLine();
+            Console.WriteLine($"p && DoStuff() = {p && DoStuff()}");
+            Console.WriteLine($"q && DoStuff() = {q && DoStuff()}");
 
             #endregion
+        }
+
+            #region bitwise and binary shift operators
+            
+
+            #endregion
+
+        /// <summary>
+        /// Simulates performing some work and returns a boolean value.
+        /// </summary>
+        /// <returns>A boolean indicating the work was completed.</returns>
+        static bool DoStuff()
+        {
+            Console.WriteLine("I am doing some stuff.");
+            return true;
         }
 
         /// <summary>
