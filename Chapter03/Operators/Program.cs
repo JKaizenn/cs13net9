@@ -158,32 +158,29 @@ namespace Operators
             */
             #endregion
 
-            #region Selection Statements
-            // C# has two selection statements. If and Switch.
+            // #region Selection Statements
+            // // C# has two selection statements. If and Switch.
 
-            // If statements:
-            if (expression1)
-            {
-                // Executes if expression1 is true.
-            }
-            else if (expression2)
-            {
-                // Executes if expression1 is false and expression2 is true.
-            }
-            else if(expression3)
-            {
-                /* Executes if expression1 and expression2 are false 
-                and expression 3 is true.*/
-            }
-            else
-            {
-                // Executes if all expressions are false.
-            }
+            // // If statements:
+            // if (expression1)
+            // {
+            //     // Executes if expression1 is true.
+            // }
+            // else if (expression2)
+            // {
+            //     // Executes if expression1 is false and expression2 is true.
+            // }
+            // else if(expression3)
+            // {
+            //     /* Executes if expression1 and expression2 are false 
+            //     and expression 3 is true.*/
+            // }
+            // else
+            // {
+            //     // Executes if all expressions are false.
+            // }
 
-            #endregion
-
-
-
+            // #endregion
 
         }
 
