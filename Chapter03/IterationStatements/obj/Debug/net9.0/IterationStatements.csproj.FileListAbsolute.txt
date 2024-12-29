@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/refint/IterationStatements.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/ref/IterationStatements.dll
