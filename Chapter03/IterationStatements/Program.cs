@@ -38,6 +38,21 @@ class Program
         // while (password != actualPassword);
         // #endregion
 
+        #region Looping with the for statement
+        for (int y = 1; y <= 10; y ++)
+        {
+            WriteLine(y);
+        }
+
+        WriteLine();
         
+        for (int y = 0; y <= 10; y+= 3)
+        {
+            WriteLine(y);
+        }
+
+        #endregion
+
+
     }
 }
