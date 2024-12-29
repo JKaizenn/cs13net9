@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Arrays/obj/Debug/net9.0/ref/Arrays.dll
