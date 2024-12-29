@@ -132,6 +132,57 @@ namespace Operators
             WriteLine($"y >> 1      | {y >> 1,7} | {y >> 1:B8}");
             #endregion
 
+            #region Miscellaneous Operators
+
+            // nameof operator returns the short name of a variable, type, or member as a string.
+
+            // sizeof operator returns the size in bytes of simple types.
+
+            // Example:
+            int age = 50;
+            WriteLine($"The {nameof(age)} variable uses {sizeof(int)} bytes of memory.");
+
+            // The dot (.) between a variable and its member is called the member access operator.
+            // The round brackets at the end of a function or method name are called the invocation operator.
+
+            // Example:
+            int age = 50;
+
+            char firstDigit = age.ToString()[0];
+            /* There are four operators:
+
+            = is the assignment operator.
+            . is the member access operator.
+            () is the invocation operator.
+            [] is the indexer access operator.
+            */
+            #endregion
+
+            #region Selection Statements
+            // C# has two selection statements. If and Switch.
+
+            // If statements:
+            if (expression1)
+            {
+                // Executes if expression1 is true.
+            }
+            else if (expression2)
+            {
+                // Executes if expression1 is false and expression2 is true.
+            }
+            else if(expression3)
+            {
+                /* Executes if expression1 and expression2 are false 
+                and expression 3 is true.*/
+            }
+            else
+            {
+                // Executes if all expressions are false.
+            }
+
+            #endregion
+
+
 
 
         }
