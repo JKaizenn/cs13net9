@@ -146,9 +146,9 @@ namespace Operators
             // The round brackets at the end of a function or method name are called the invocation operator.
 
             // Example:
-            int age = 50;
+            int age_operator = 50;
 
-            char firstDigit = age.ToString()[0];
+            char firstDigit = age_operator.ToString()[0];
             /* There are four operators:
 
             = is the assignment operator.
