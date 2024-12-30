@@ -185,10 +185,9 @@ class Program
             WriteLine("The input could not be parsed.");
         }
 
-
         #endregion
 
-
+        WriteLine();
 
     }
 }
