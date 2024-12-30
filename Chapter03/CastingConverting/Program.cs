@@ -125,6 +125,12 @@ class Program
 
         #endregion
 
+        #region Converting from a binary object to a string
+        
+
+
+        #endregion
+
         
 
 
