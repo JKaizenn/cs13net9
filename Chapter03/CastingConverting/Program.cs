@@ -1,4 +1,6 @@
-﻿namespace CastingConverting;
+﻿using static System.Convert; // To use the ToInt32 method.
+
+namespace CastingConverting;
 
 class Program
 {
@@ -47,11 +49,85 @@ class Program
 
         int s = (int)r;
 
-        Console.WriteLine($"{"r",38:B38} = {r}");
+        WriteLine();
 
-        Console.WriteLine($"{"s",38:B32} = {s}");
+        Console.WriteLine($"{"r",34:B38} = {r}");
+
+        Console.WriteLine($"{"s",34:B32} = {s}");
 
         #endregion
+
+        WriteLine();
+        #region Converting with System.Convert Type
+
+        double g = 9.8;
+        int h = ToInt32(g); // A method of System.Convert.
+        WriteLine($"g is {g}, h is {h}");
+
+        #endregion
+
+        WriteLine();
+
+        #region Rounding and Rounding Rules
+
+        double[,] doubles = {
+        {  9.49,  9.5,  9.51  },
+        { 10.49, 10.5, 10.51  },
+        { 11.49, 11.5, 11.51  },
+        { 12.49, 12.5, 12.51  },
+        { -12.49, -12.5, -12.51 },
+        { -11.49, -11.5, -11.51 },
+        { -10.49, -10.5, -10.51 },
+        {  -9.49,  -9.5,  -9.51 }
+
+        };
+
+        WriteLine($"| double | ToInt32 | double | ToInt32 | double | ToInt32 |");
+        for (int x = 0; x < 8; x++)
+        {
+            for (int y = 0; y < 3; y++)
+            {
+                Write($"| {doubles[x, y],6} | {ToInt32(doubles[x, y]),7} ");
+            }
+            WriteLine("|");
+        }
+        WriteLine();
+
+        #endregion
+
+        WriteLine();
+
+        #region Taking control of rounding rules
+
+        foreach (double n in doubles)
+        {
+            WriteLine(format:
+            "Math.Round({0}, 0, MidpointRounding.AwayFromZero) is {1}",
+            arg0: n,
+            arg1: Math.Round(value: n, digits: 0,
+            mode: MidpointRounding.AwayFromZero));
+        }
+
+        #endregion
+
+        WriteLine();
+
+        #region Converting from any type to a String
+        
+        int number = 12;
+        WriteLine(number.ToString());
+        bool boolean = true;
+        WriteLine(boolean.ToString());
+        DateTime now = DateTime.Now;
+        WriteLine(now.ToString());
+        object me = new();
+        WriteLine(me.ToString());
+
+        #endregion
+
+        
+
+
 
 
     }
