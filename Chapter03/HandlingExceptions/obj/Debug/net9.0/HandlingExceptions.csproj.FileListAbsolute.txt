@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/refint/HandlingExceptions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/ref/HandlingExceptions.dll
