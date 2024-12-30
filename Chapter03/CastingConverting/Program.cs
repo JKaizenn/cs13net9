@@ -158,15 +158,35 @@ class Program
         WriteLine();
 
         #region Parsing from strings to numbers or dates and times
-        
 
+        // Set the current culture to make sure date parsing works.
+        CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
+
+        int friends = int.Parse("27");
+        DateTime birthday = DateTime.Parse("4 June 1980");
+        WriteLine($"I have {friends} friends to invite to my party.");
+        WriteLine($"My birthday is {birthday}.");
+        WriteLine($"My birthday is {birthday:D}");
 
         #endregion
 
+        WriteLine();
+
+        #region TryParse method
+        Write("How many eggs are there? ");
+        string? input = ReadLine();
+
+        if (int.TryParse(input, out int count))
+        {
+            WriteLine($"There are {count} eggs");
+        }
+        else 
+        {
+            WriteLine("The input could not be parsed.");
+        }
 
 
-        
-
+        #endregion
 
 
 
