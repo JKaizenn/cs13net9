@@ -1,4 +1,6 @@
-﻿using static System.Convert; // To use the ToInt32 method.
+﻿using System.Buffers.Text;
+using static System.Convert; // To use the ToInt32 method.
+using System.Globalization; // To use CultureInfo
 
 namespace CastingConverting;
 
@@ -125,11 +127,43 @@ class Program
 
         #endregion
 
+        WriteLine();
+
         #region Converting from a binary object to a string
+
+        // Allocate an array of 128 bytes.
+        byte[] binaryObject = new byte[128];
+
+        // Populate the array with random bytes
+        Random.Shared.NextBytes(binaryObject);
+
+        WriteLine("Binary Object as bytes:");
+        for (int index = 0; index < binaryObject.Length; index++)
+        {
+            Write($"{binaryObject[index]:X2}");
+        }
+        WriteLine();
+
+        // Convert the array to Base64 string and output as text.
+        string encoded = ToBase64String(binaryObject);
+        WriteLine($"Binary Object as Base64: {encoded}");
+
+        #endregion
+
+        #region Base64 for URLs
+        // ReadOnlySpan<byte> bytes = ...;
+        // string encoded = Base64Url.EncodeToString(bytes);
+        #endregion
+
+        WriteLine();
+
+        #region Parsing from strings to numbers or dates and times
         
 
 
         #endregion
+
+
 
         
 
