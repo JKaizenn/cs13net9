@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/refint/TopLevelFunctions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/obj/Debug/net9.0/ref/TopLevelFunctions.dll
