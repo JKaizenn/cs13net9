@@ -94,10 +94,6 @@ class Program
             y--;
             WriteLine($"After decrement: {y}");
         }
-
-
         #endregion
-
-
     }
 }

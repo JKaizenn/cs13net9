@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/bin/Debug/net9.0/Exercise_3.2
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/bin/Debug/net9.0/Exercise_3.2.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/bin/Debug/net9.0/Exercise_3.2.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/bin/Debug/net9.0/Exercise_3.2.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/bin/Debug/net9.0/Exercise_3.2.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/refint/Exercise_3.2.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/Exercise_3.2.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_3.2/obj/Debug/net9.0/ref/Exercise_3.2.dll
