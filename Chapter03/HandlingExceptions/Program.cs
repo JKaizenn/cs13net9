@@ -17,15 +17,21 @@ class Program
 
         try 
         {
-            int age = int.Parse(input);
+            int age = int.Parse(input!);
             WriteLine($"You are {age} years old.");
         }
-        catch
+        catch (Exception ex)
         {
+            WriteLine($"{ex.GetType()} says {ex.Message}");
         }
 
         WriteLine("After Parsing");
 
         #endregion
+
+        WriteLine();
+
+        
+
     }
 }
