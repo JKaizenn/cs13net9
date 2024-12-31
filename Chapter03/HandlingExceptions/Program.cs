@@ -82,5 +82,22 @@ class Program
         #endregion
 
 
+        #region Unchecked Statement
+
+        // This method helps disable compile-time checks.
+        unchecked
+        {
+            int y = int.MaxValue + 1;
+            WriteLine($"Initial Value {y}");
+            y--;
+            WriteLine($"After decrement: {y}");
+            y--;
+            WriteLine($"After decrement: {y}");
+        }
+
+
+        #endregion
+
+
     }
 }
