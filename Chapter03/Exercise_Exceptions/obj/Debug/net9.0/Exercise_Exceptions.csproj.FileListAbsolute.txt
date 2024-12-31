@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/bin/Debug/net9.0/Exercise_Exceptions
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/bin/Debug/net9.0/Exercise_Exceptions.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/bin/Debug/net9.0/Exercise_Exceptions.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/bin/Debug/net9.0/Exercise_Exceptions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/bin/Debug/net9.0/Exercise_Exceptions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/refint/Exercise_Exceptions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/Exercise_Exceptions.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_Exceptions/obj/Debug/net9.0/ref/Exercise_Exceptions.dll
