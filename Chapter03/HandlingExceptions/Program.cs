@@ -35,9 +35,41 @@ class Program
 
         WriteLine("After Parsing");
 
+        // Catch using the when keyword
+        Write("Enter an amount: ");
+        string amount = ReadLine();
+        if (string.IsNullOrEmpty(amount)) return;
+
+        try
+        {
+            decimal amountValue = decimal.Parse(amount);
+            WriteLine($"Amount formatted as currency: {amountValue:C}");
+        }
+        catch (FormatException) when (amount.Contains('$'))
+        {
+            WriteLine("Amounts cannot use the dollar sign!");
+        }
+        catch (FormatException)
+        {
+            WriteLine("Amounts must only contains digits!");
+        }
+
         #endregion
 
         WriteLine();
+
+        #region Overflow exceptions
+        
+        int x = int.MaxValue -1;
+        WriteLine($"Initial Value: {x}");
+        x++;
+        WriteLine($"After Incrementing: {x}");
+        x++;
+        WriteLine($"After Incrementing: {x}");
+        x++;
+        WriteLine($"After Incrementing: {x}");
+
+        #endregion
 
 
     }
