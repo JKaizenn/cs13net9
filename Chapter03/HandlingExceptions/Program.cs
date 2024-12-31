@@ -59,16 +59,26 @@ class Program
         WriteLine();
 
         #region Overflow exceptions
-        
-        int x = int.MaxValue -1;
-        WriteLine($"Initial Value: {x}");
-        x++;
-        WriteLine($"After Incrementing: {x}");
-        x++;
-        WriteLine($"After Incrementing: {x}");
-        x++;
-        WriteLine($"After Incrementing: {x}");
 
+        // Checked will see if an overflow occurs and throws an exception.
+        checked
+        {
+            try
+            {
+                int x = int.MaxValue - 1;
+                WriteLine($"Initial Value: {x}");
+                x++;
+                WriteLine($"After Incrementing: {x}");
+                x++;
+                WriteLine($"After Incrementing: {x}");
+                x++;
+                WriteLine($"After Incrementing: {x}");
+            }
+            catch (OverflowException)
+            {
+                WriteLine("The code overflowed, but I caught the exception!");
+            }
+        }
         #endregion
 
 
