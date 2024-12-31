@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/bin/Debug/net9.0/Exercise_FizzBuzz
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/bin/Debug/net9.0/Exercise_FizzBuzz.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/bin/Debug/net9.0/Exercise_FizzBuzz.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/bin/Debug/net9.0/Exercise_FizzBuzz.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/bin/Debug/net9.0/Exercise_FizzBuzz.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/refint/Exercise_FizzBuzz.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/Exercise_FizzBuzz.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_FizzBuzz/obj/Debug/net9.0/ref/Exercise_FizzBuzz.dll
