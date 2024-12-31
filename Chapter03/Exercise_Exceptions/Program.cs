@@ -11,22 +11,21 @@ class Program
             int input1 = int.Parse(Console.ReadLine());
             int input2 = int.Parse(Console.ReadLine());
 
-            // Checks if the user input is between 0-255
-            if (input1 >= 0 && input2 >= 0 && input1 <= 255 && input2 <= 255)
-            {
-                if (input2 != 0) // Ensure no division by zero
-                {
-                    Console.WriteLine($"Number 1 divided by Number 2 = {input1 / (double)input2}");
-                }
-                else
-                {
-                    Console.WriteLine("Division by zero is not allowed. Please try again!");
-                }
-            }
-            else
+            // Guard clauses to handle invalid inputs
+            if (input1 < 0 || input1 > 255 || input2 < 0 || input2 > 255)
             {
                 Console.WriteLine("Your numbers are not in the desired range, try again!");
+                return;
             }
+
+            if (input2 == 0)
+            {
+                Console.WriteLine("Division by zero is not allowed. Please try again!");
+                return;
+            }
+
+            // Perform the division
+            Console.WriteLine($"Number 1 divided by Number 2 = {input1 / (double)input2}");
         }
         catch (FormatException)
         {
