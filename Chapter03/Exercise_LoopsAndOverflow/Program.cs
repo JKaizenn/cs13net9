@@ -1,4 +1,4 @@
-﻿namespace Exercise_3._2;
+﻿namespace Exercise_LoopsAndOverflow;
 
 class Program
 {

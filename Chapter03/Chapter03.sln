@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "Castin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{9827F2D2-46D5-4656-9C09-BBC34D22D571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3.2", "Exercise_3.2\Exercise_3.2.csproj", "{F5083ED3-907D-4C10-AAC6-E3ADDDA4D892}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_LoopsAndOverflow", "Exercise_LoopsAndOverflow\Exercise_LoopsAndOverflow.csproj", "{2FD021A8-BA46-4CE8-B3ED-B823B88922E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,9 +50,9 @@ Global
 		{9827F2D2-46D5-4656-9C09-BBC34D22D571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9827F2D2-46D5-4656-9C09-BBC34D22D571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9827F2D2-46D5-4656-9C09-BBC34D22D571}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5083ED3-907D-4C10-AAC6-E3ADDDA4D892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5083ED3-907D-4C10-AAC6-E3ADDDA4D892}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5083ED3-907D-4C10-AAC6-E3ADDDA4D892}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5083ED3-907D-4C10-AAC6-E3ADDDA4D892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD021A8-BA46-4CE8-B3ED-B823B88922E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD021A8-BA46-4CE8-B3ED-B823B88922E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD021A8-BA46-4CE8-B3ED-B823B88922E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD021A8-BA46-4CE8-B3ED-B823B88922E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
