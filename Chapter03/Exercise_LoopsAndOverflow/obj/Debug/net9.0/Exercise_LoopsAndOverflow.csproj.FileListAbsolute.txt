@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/refint/Exercise_LoopsAndOverflow.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/ref/Exercise_LoopsAndOverflow.dll
