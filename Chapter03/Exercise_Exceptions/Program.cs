@@ -1,27 +1,40 @@
 ﻿namespace Exercise_Exceptions;
-
-using System;
-using System.ComponentModel;
-
 class Program
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Please enter two numbers between 0-255:");
 
-        // Converts the string to int
-        int input1 = int.Parse(ReadLine()); 
-        int input2 = int.Parse(ReadLine()); 
+        try
+        {
+            // Convert the string inputs to integers
+            int input1 = int.Parse(Console.ReadLine());
+            int input2 = int.Parse(Console.ReadLine());
 
-        // Checks if the user input is between 0-255
-        if(input1 >= 0  && input2 >= 0 && input1 <= 255 && input2 <= 255)
-        {
-            WriteLine($"Number 1 divided by Number 2 = {input1 / input2}");
+            // Checks if the user input is between 0-255
+            if (input1 >= 0 && input2 >= 0 && input1 <= 255 && input2 <= 255)
+            {
+                if (input2 != 0) // Ensure no division by zero
+                {
+                    Console.WriteLine($"Number 1 divided by Number 2 = {input1 / (double)input2}");
+                }
+                else
+                {
+                    Console.WriteLine("Division by zero is not allowed. Please try again!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Your numbers are not in the desired range, try again!");
+            }
         }
-        else 
+        catch (FormatException)
         {
-            WriteLine("Your number is not in the desired range, try again!");
+            Console.WriteLine("Invalid input format. Please enter valid numbers.");
         }
-    
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }
     }
 }
