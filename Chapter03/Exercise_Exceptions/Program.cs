@@ -11,7 +11,6 @@ class Program
             int input1 = int.Parse(Console.ReadLine());
             int input2 = int.Parse(Console.ReadLine());
 
-            // Guard clauses to handle invalid inputs
             if (input1 < 0 || input1 > 255 || input2 < 0 || input2 > 255)
             {
                 Console.WriteLine("Your numbers are not in the desired range, try again!");
