@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/refint/WritingFunctions.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/ref/WritingFunctions.dll
