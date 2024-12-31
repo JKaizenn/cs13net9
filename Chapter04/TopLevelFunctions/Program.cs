@@ -1,5 +1,4 @@
-﻿namespace TopLevelFunctions;
-using static System.Console;
+﻿using static System.Console;
 
 class Program
 {
