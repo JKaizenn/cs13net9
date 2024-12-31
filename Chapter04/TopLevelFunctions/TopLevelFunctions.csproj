@@ -7,5 +7,9 @@
     <Nullable>enable</Nullable>
     <PublishAot>true</PublishAot>
   </PropertyGroup>
+  <ItemGroup>
+  <Using Include="System.Console" Static="True"/>
+  </ItemGroup>
+  
 
 </Project>

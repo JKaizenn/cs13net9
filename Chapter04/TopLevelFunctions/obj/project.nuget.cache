@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E187DpXGSgQ=",
+  "dgSpecHash": "6UxcJ4rfRBg=",
   "success": true,
   "projectFilePath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter04/TopLevelFunctions/TopLevelFunctions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jessenforbush/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.0/microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512",
+    "/Users/jessenforbush/.nuget/packages/microsoft.net.illink.tasks/9.0.0/microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "/Users/jessenforbush/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/9.0.0/runtime.osx-arm64.microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
