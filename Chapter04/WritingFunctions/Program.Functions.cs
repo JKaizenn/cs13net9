@@ -24,7 +24,7 @@ partial class Program
             "GB" or "FR" => 0.2M, // UK, France
             "HU" => 0.27M, // Hungary
             "OR" or "AK" or "MT" => 0.0M, // Oregon, Alaska, or Montana
-            "ND" or "WI" or "ME" or "VA" => 0.05M, 
+            "ND" or "WI" or "ME" or "VA" => 0.05M,
             "CA" => 0.0825M, // California
             _ => 0.06M // Most other states.
         };
@@ -35,7 +35,7 @@ partial class Program
     static void ConfigureConsole(string culture = "en-US",
         bool useComputerCulture = false)
     {
-        // To enable Unicode characters like Euro symbol in the console.
+        // To enable Unicode characters like the Euro symbol in the console.
         OutputEncoding = System.Text.Encoding.UTF8;
 
         if (!useComputerCulture)
@@ -50,6 +50,8 @@ partial class Program
         TimesTable(5);
         WriteLine(CalculateTax(100M, "CA"));
         ConfigureConsole();
+        RunCardinalToOrdinal();
+        RunFactorial();
     }
 
     static string CardinalToOrdinal(uint number)
@@ -78,10 +80,35 @@ partial class Program
 
     static void RunCardinalToOrdinal()
     {
-        for (uint number = 1; number <= 1500; number++)
+        for (uint number = 1; number <= 20; number++) // Reduced range for brevity
         {
             Write($"{CardinalToOrdinal(number)} ");
         }
         WriteLine();
+    }
+
+    static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentOutOfRangeException(nameof(number),
+                $"The factorial function is defined for non-negative integers only. Input: {number}");
+        }
+        else if (number == 0)
+        {
+            return 1;
+        }
+        else
+        {
+            return number * Factorial(number - 1);
+        }
+    }
+
+    static void RunFactorial()
+    {
+        for (int i = 1; i <= 15; i++)
+        {
+            WriteLine($"{i}! = {Factorial(i):N0}");
+        }
     }
 }
