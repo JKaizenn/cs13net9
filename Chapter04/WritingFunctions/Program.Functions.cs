@@ -1,3 +1,4 @@
+using System;
 using System.Globalization; // To use CultureInfo.
 
 partial class Program
@@ -54,6 +55,13 @@ partial class Program
         RunFactorial();
     }
 
+/// <summary>
+/// Pass a 32-bit unsigned integer and it will be converted into its
+/// ordinal equivalent.
+/// </summary>
+/// <param name="number">Number as a cardinal value e.g. 1, 2, 3
+/// and so on.</param>
+/// <returns>Number as an ordinal value e.g. 1st, 2nd, 3rd, and so on.</returns>
     static string CardinalToOrdinal(uint number)
     {
         uint lastTwoDigits = number % 100;
@@ -100,15 +108,29 @@ partial class Program
         }
         else
         {
-            return number * Factorial(number - 1);
+            checked
+            {
+                return number * Factorial(number - 1);
+            }
         }
     }
 
     static void RunFactorial()
     {
-        for (int i = 1; i <= 15; i++)
+        for (int i = -2; i <= 15; i++)
         {
-            WriteLine($"{i}! = {Factorial(i):N0}");
+            try
+            {
+                WriteLine($"{i}! = {Factorial(i):N0}");
+            }
+            catch (OverflowException)
+            {
+                WriteLine($"{i}! is too large for a 32-bit integer.");
+            }
+            catch (ArgumentOutOfRangeException ex)
+            {
+                WriteLine($"{i}! throws {ex.GetType().Name}: {ex.Message}");
+            }
         }
     }
 }
