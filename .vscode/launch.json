@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Debugging",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Chapter04/Debugging/Debugging.csproj",
+            "launchConfigurationId": "TargetFramework=;Debugging"
+        }
+    ]
+}
