@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/bin/Debug/net9.0/Debugging
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/bin/Debug/net9.0/Debugging.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/bin/Debug/net9.0/Debugging.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/bin/Debug/net9.0/Debugging.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/bin/Debug/net9.0/Debugging.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/refint/Debugging.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/Debugging.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Debugging/obj/Debug/net9.0/ref/Debugging.dll
