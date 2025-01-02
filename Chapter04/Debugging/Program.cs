@@ -1,9 +1,13 @@
-﻿namespace Debugging;
+﻿double a = 4.5;
+double b = 2.5;
+double answer = Add(a, b);
 
-class Program
+WriteLine($"{a} + {b} = {answer}");
+WriteLine("Please Enter to end the app.");
+ReadLine();
+
+double Add(double a, double b)
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
+    return a * b; // Deliberate Bug
 }
+
