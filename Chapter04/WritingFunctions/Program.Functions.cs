@@ -15,8 +15,7 @@ partial class Program
         WriteLine();
     }
 
-    static decimal CalculateTax(
-        decimal amount, string twoLetterRegionCode)
+    static decimal CalculateTax(decimal amount, string twoLetterRegionCode)
     {
         decimal rate = twoLetterRegionCode switch
         {
@@ -33,8 +32,7 @@ partial class Program
         return amount * rate;
     }
 
-    static void ConfigureConsole(string culture = "en-US",
-        bool useComputerCulture = false)
+    static void ConfigureConsole(string culture = "en-US", bool useComputerCulture = false)
     {
         // To enable Unicode characters like the Euro symbol in the console.
         OutputEncoding = System.Text.Encoding.UTF8;
@@ -53,15 +51,15 @@ partial class Program
         ConfigureConsole();
         RunCardinalToOrdinal();
         RunFactorial();
+        RunFibImperative();
     }
 
-/// <summary>
-/// Pass a 32-bit unsigned integer and it will be converted into its
-/// ordinal equivalent.
-/// </summary>
-/// <param name="number">Number as a cardinal value e.g. 1, 2, 3
-/// and so on.</param>
-/// <returns>Number as an ordinal value e.g. 1st, 2nd, 3rd, and so on.</returns>
+    /// <summary>
+    /// Pass a 32-bit unsigned integer and it will be converted into its
+    /// ordinal equivalent.
+    /// </summary>
+    /// <param name="number">Number as a cardinal value e.g. 1, 2, 3 and so on.</param>
+    /// <returns>Number as an ordinal value e.g. 1st, 2nd, 3rd, and so on.</returns>
     static string CardinalToOrdinal(uint number)
     {
         uint lastTwoDigits = number % 100;
@@ -131,6 +129,38 @@ partial class Program
             {
                 WriteLine($"{i}! throws {ex.GetType().Name}: {ex.Message}");
             }
+        }
+    }
+
+    static void RunFibImperative()
+    {
+        for (uint i = 1; i <= 30; i++)
+        {
+            WriteLine(
+                "The {0} term of the Fibonacci Sequence is {1:N0}.",
+                CardinalToOrdinal(i),
+                FibImperative(i)
+            );
+        }
+    }
+
+    static int FibImperative(uint term)
+    {
+        if (term == 0)
+        {
+            throw new ArgumentOutOfRangeException(nameof(term), "Term must be a positive integer.");
+        }
+        else if (term == 1)
+        {
+            return 0;
+        }
+        else if (term == 2)
+        {
+            return 1;
+        }
+        else
+        {
+            return FibImperative(term - 1) + FibImperative(term - 2);
         }
     }
 }
