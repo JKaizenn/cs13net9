@@ -163,4 +163,14 @@ partial class Program
             return FibImperative(term - 1) + FibImperative(term - 2);
         }
     }
+
+    static int FibFunctional(uint term) => term switch
+    {
+        0 => throw new ArgumentOutOfRangeException(),
+        1 => 0,
+        2 => 1,
+        _ => FibFunctional(term - 1) + FibFunctional(term - 2)
+    };
+
+    
 }
