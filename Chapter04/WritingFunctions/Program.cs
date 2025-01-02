@@ -15,5 +15,7 @@
 
 // RunFactorial();
 
-RunFibImperative();
+// RunFibImperative();
+
+RunFibFunctional();
 
