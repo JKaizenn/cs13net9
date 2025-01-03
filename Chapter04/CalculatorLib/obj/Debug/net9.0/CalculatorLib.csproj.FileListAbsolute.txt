@@ -1,0 +1,12 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/bin/Debug/net9.0/CalculatorLib.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/bin/Debug/net9.0/CalculatorLib.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/bin/Debug/net9.0/CalculatorLib.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/refint/CalculatorLib.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/ref/CalculatorLib.dll
