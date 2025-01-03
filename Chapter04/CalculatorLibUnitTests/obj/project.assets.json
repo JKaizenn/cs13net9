@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "CalculatorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CalculatorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorLib.dll": {}
+        }
       }
     }
   },
@@ -932,10 +942,16 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "CalculatorLib/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorLib/CalculatorLib.csproj",
+      "msbuildProject": "../CalculatorLib/CalculatorLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "CalculatorLib >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.11.1",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -966,7 +982,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/CalculatorLib.csproj": {
+              "projectPath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CalculatorLib/CalculatorLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
