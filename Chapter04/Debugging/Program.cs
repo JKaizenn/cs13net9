@@ -1,4 +1,7 @@
-﻿double a = 4.5;
+﻿Write("Enter a number: ");
+string number = ReadLine();
+
+double a = double.Parse(number);
 double b = 2.5;
 double answer = Add(a, b);
 
@@ -8,6 +11,6 @@ ReadLine();
 
 double Add(double a, double b)
 {
-    return a * b; // Deliberate Bug
+    return a + b; // Deliberate Bug
 }
 
