@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/bin/Debug/net9.0/HotReloading
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/bin/Debug/net9.0/HotReloading.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/bin/Debug/net9.0/HotReloading.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/bin/Debug/net9.0/HotReloading.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/bin/Debug/net9.0/HotReloading.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/refint/HotReloading.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/HotReloading.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/HotReloading/obj/Debug/net9.0/ref/HotReloading.dll
