@@ -1,0 +1,12 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net9.0/CallStackExceptionHandlingLib.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net9.0/CallStackExceptionHandlingLib.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net9.0/CallStackExceptionHandlingLib.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/refint/CallStackExceptionHandlingLib.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/CallStackExceptionHandlingLib.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net9.0/ref/CallStackExceptionHandlingLib.dll
