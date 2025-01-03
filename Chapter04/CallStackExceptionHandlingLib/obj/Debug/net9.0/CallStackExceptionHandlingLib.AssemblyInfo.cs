@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CallStackExceptionHandlingLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76865d03b9f6ab97140502d91b084cdf1dcac582")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf0278c913dc1941ff631e954bac8a66ed71affb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CallStackExceptionHandlingLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CallStackExceptionHandlingLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

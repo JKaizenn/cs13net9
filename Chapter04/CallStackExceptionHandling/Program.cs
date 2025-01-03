@@ -1,9 +1,18 @@
-﻿namespace CallStackExceptionHandling;
+﻿using CallStackExceptionHandlingLib;
+using static System.Console;
 
-class Program
+WriteLine("In Main");
+Alpha();
+
+void Alpha()
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
+    WriteLine("In Alpha");
+    Beta();
+    
+}
+
+void Beta()
+{
+    WriteLine("In Beta");
+    Processor.Gamma();
 }
