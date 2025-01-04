@@ -1,0 +1,15 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/bin/Debug/net9.0/Exercise_PrimeFactorsApp
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/bin/Debug/net9.0/Exercise_PrimeFactorsApp.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/bin/Debug/net9.0/Exercise_PrimeFactorsApp.runtimeconfig.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/bin/Debug/net9.0/Exercise_PrimeFactorsApp.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/bin/Debug/net9.0/Exercise_PrimeFactorsApp.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/refint/Exercise_PrimeFactorsApp.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/Exercise_PrimeFactorsApp.genruntimeconfig.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsApp/obj/Debug/net9.0/ref/Exercise_PrimeFactorsApp.dll

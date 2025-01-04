@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandlingL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandling", "CallStackExceptionHandling\CallStackExceptionHandling.csproj", "{C1A301B7-E490-4841-8A30-E1554323F567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_PrimeFactorsApp", "Exercise_PrimeFactorsApp\Exercise_PrimeFactorsApp.csproj", "{81A1E861-2C78-4144-B848-71D6856AD2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_PrimeFactorsLib", "Exercise_PrimeFactorsLib\Exercise_PrimeFactorsLib.csproj", "{720130A3-A15E-45BF-80D4-AA21BCC989A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_PrimeFactorsTests", "Exercise_PrimeFactorsTests\Exercise_PrimeFactorsTests.csproj", "{94F7FB52-B914-42B4-9A23-A07146C04AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +66,17 @@ Global
 		{C1A301B7-E490-4841-8A30-E1554323F567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A301B7-E490-4841-8A30-E1554323F567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A301B7-E490-4841-8A30-E1554323F567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A1E861-2C78-4144-B848-71D6856AD2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A1E861-2C78-4144-B848-71D6856AD2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A1E861-2C78-4144-B848-71D6856AD2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A1E861-2C78-4144-B848-71D6856AD2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720130A3-A15E-45BF-80D4-AA21BCC989A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720130A3-A15E-45BF-80D4-AA21BCC989A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720130A3-A15E-45BF-80D4-AA21BCC989A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720130A3-A15E-45BF-80D4-AA21BCC989A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F7FB52-B914-42B4-9A23-A07146C04AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F7FB52-B914-42B4-9A23-A07146C04AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F7FB52-B914-42B4-9A23-A07146C04AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F7FB52-B914-42B4-9A23-A07146C04AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
