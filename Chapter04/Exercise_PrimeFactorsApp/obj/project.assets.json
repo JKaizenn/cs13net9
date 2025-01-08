@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Exercise_PrimeFactorsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Exercise_PrimeFactorsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise_PrimeFactorsLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Exercise_PrimeFactorsLib/1.0.0": {
+      "type": "project",
+      "path": "../Exercise_PrimeFactorsLib/Exercise_PrimeFactorsLib.csproj",
+      "msbuildProject": "../Exercise_PrimeFactorsLib/Exercise_PrimeFactorsLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Exercise_PrimeFactorsLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/jessenforbush/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsLib/Exercise_PrimeFactorsLib.csproj": {
+              "projectPath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter04/Exercise_PrimeFactorsLib/Exercise_PrimeFactorsLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

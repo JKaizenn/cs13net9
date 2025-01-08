@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise_PrimeFactorsTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22a171b2617de937ddf6708ccfa876b50c3227c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+178a7c8c8fe1d49b9728f035d1e8ca146c916640")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise_PrimeFactorsTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise_PrimeFactorsTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
