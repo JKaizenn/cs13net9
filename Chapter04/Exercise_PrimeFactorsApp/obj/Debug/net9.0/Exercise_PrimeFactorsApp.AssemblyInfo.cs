@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise_PrimeFactorsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+178a7c8c8fe1d49b9728f035d1e8ca146c916640")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f66fefc511d6267b98c2a4dc5b06f90ab0bbd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise_PrimeFactorsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise_PrimeFactorsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
