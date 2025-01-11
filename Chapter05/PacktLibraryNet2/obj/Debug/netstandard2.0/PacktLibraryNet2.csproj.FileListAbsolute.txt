@@ -1,0 +1,11 @@
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/bin/Debug/netstandard2.0/PacktLibraryNet2.deps.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/bin/Debug/netstandard2.0/PacktLibraryNet2.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/bin/Debug/netstandard2.0/PacktLibraryNet2.pdb
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.csproj.AssemblyReference.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.AssemblyInfoInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.AssemblyInfo.cs
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.sourcelink.json
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.dll
+/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.pdb

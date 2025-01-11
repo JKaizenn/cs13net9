@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nFxQ2OmUnFQ=",
+  "dgSpecHash": "z0P01krCkA8=",
   "success": true,
   "projectFilePath": "/Users/jessenforbush/dev/C# /cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jessenforbush/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jessenforbush/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
